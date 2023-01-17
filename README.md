@@ -9,3 +9,6 @@ https://github.com/bogdantopliceanu/SP-Lab1/commit/628e322940dfe0a9b0c8ac6c78fcb
 - la subchapter, pt fiecare element, apeleaza metoda print
 
 Nota 10
+
+https://github.com/bogdantopliceanu/SP-Lab1/tree/42cef2a094b4e61951a256f023603566a2f740a2
+# Nota finala: 8
